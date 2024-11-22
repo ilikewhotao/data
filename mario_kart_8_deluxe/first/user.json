@@ -113,10 +113,26 @@
   },
   {
     "sw": "SW-6454-0571-2329",
-    "username": "USA-CHA"
+    "username": "USA-CHA",
+    "nickname": "茶茶吉"
   },
   {
     "sw": "SW-8153-2530-8629",
     "username": "Target"
+  },
+  {
+    "sw": "SW-4389-1810-4898",
+    "username": "LL",
+    "nickname": "扁山楂"
+  },
+  {
+    "sw": "SW-6147-8542-7026",
+    "username": "woodsun",
+    "nickname": "wood"
+  },
+  {
+    "sw": "SW-5878-7717-0284",
+    "username": "nian",
+    "nickname": "阿年"
   }
 ]
