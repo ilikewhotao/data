@@ -70,7 +70,7 @@
       { "sw": "SW-5785-5717-6873", "rank": 1, "score": 48, "bonus": 4 },
       { "sw": "SW-4815-4743-9497", "rank": 2, "score": 43, "bonus": 3 },
       { "sw": "SW-7293-1776-3310", "rank": 3, "score": 42, "bonus": 2 },
-      { "sw": "SW-4166-7840-3904", "rank": 3, "score": 42, "bonus": 0 },
+      { "sw": "SW-4166-7840-3904", "rank": 3, "score": 42, "bonus": 2 },
       { "sw": "SW-3903-0700-7712", "rank": 5, "score": 29, "bonus": 0 },
       { "sw": "SW-4802-3318-5800", "rank": 6, "score": 27, "bonus": 6 },
       { "sw": "SW-0097-5475-6413", "rank": 7, "score": 25, "bonus": 0 },
