@@ -251,5 +251,81 @@
       { "sw": "SW-4713-4160-4145", "rank": 10, "score": 12, "bonus": 1 },
       { "sw": "SW-8443-5775-2699", "rank": 11, "score": 8, "bonus": 1 }
     ]
+  },
+  {
+    "datetime": "2024-12-10 20:37",
+    "data": [
+      { "sw": "SW-5785-5717-6873", "rank": 1, "score": 43, "bonus": 4 },
+      { "sw": "SW-4815-4743-9497", "rank": 2, "score": 36, "bonus": 3 },
+      { "sw": "SW-1867-2088-6399", "rank": 3, "score": 35, "bonus": 2 },
+      { "sw": "SW-3903-0700-7712", "rank": 4, "score": 24, "bonus": 0 },
+      { "sw": "SW-7293-1776-3310", "rank": 5, "score": 23, "bonus": 0 },
+      { "sw": "SW-0097-5475-6413", "rank": 5, "score": 23, "bonus": 0 },
+      { "sw": "SW-7268-6997-8474", "rank": 7, "score": 22, "bonus": 6 },
+      { "sw": "SW-4713-4160-4145", "rank": 8, "score": 21, "bonus": 0 },
+      { "sw": "SW-4802-3318-5800", "rank": 9, "score": 19, "bonus": 0 },
+      { "sw": "SW-4053-1694-2137", "rank": 9, "score": 19, "bonus": 1 },
+      { "sw": "SW-5312-8928-1893", "rank": 11, "score": 11, "bonus": 1 }
+    ]
+  },
+  {
+    "datetime": "2024-12-10 21:00",
+    "data": [
+      { "sw": "SW-5785-5717-6873", "rank": 1, "score": 42, "bonus": 4 },
+      { "sw": "SW-1867-2088-6399", "rank": 2, "score": 32, "bonus": 3 },
+      { "sw": "SW-7293-1776-3310", "rank": 3, "score": 29, "bonus": 2 },
+      { "sw": "SW-0097-5475-6413", "rank": 4, "score": 24, "bonus": 0 },
+      { "sw": "SW-7268-6997-8474", "rank": 5, "score": 21, "bonus": 0 },
+      { "sw": "SW-4053-1694-2137", "rank": 5, "score": 21, "bonus": 0 },
+      { "sw": "SW-3903-0700-7712", "rank": 7, "score": 17, "bonus": 0 },
+      { "sw": "SW-4713-4160-4145", "rank": 8, "score": 16, "bonus": 0 },
+      { "sw": "SW-5312-8928-1893", "rank": 9, "score": 11, "bonus": 6 }
+    ]
+  },
+  {
+    "datetime": "2024-12-11 20:37",
+    "data": [
+      { "sw": "SW-4815-4743-9497", "rank": 1, "score": 48, "bonus": 4 },
+      { "sw": "SW-5785-5717-6873", "rank": 2, "score": 44, "bonus": 3 },
+      { "sw": "SW-5909-7062-9207", "rank": 3, "score": 34, "bonus": 2 },
+      { "sw": "SW-0097-5475-6413", "rank": 4, "score": 27, "bonus": 0 },
+      { "sw": "SW-6338-9286-5985", "rank": 5, "score": 25, "bonus": 0 },
+      { "sw": "SW-7268-6997-8474", "rank": 6, "score": 24, "bonus": 0 },
+      { "sw": "SW-4802-3318-5800", "rank": 7, "score": 23, "bonus": 6 },
+      { "sw": "SW-4053-1694-2137", "rank": 7, "score": 23, "bonus": 6 },
+      { "sw": "SW-5312-8928-1893", "rank": 9, "score": 14, "bonus": 0 },
+      { "sw": "SW-4713-4160-4145", "rank": 10, "score": 10, "bonus": 1 },
+      { "sw": "SW-2262-4344-0245", "rank": 11, "score": 4, "bonus": 1 }
+    ]
+  },
+  {
+    "datetime": "2024-12-11 20:55",
+    "data": [
+      { "sw": "SW-4815-4743-9497", "rank": 1, "score": 44, "bonus": 4 },
+      { "sw": "SW-5785-5717-6873", "rank": 2, "score": 42, "bonus": 3 },
+      { "sw": "SW-5909-7062-9207", "rank": 3, "score": 31, "bonus": 2 },
+      { "sw": "SW-0097-5475-6413", "rank": 3, "score": 31, "bonus": 0 },
+      { "sw": "SW-4053-1694-2137", "rank": 5, "score": 30, "bonus": 0 },
+      { "sw": "SW-6338-9286-5985", "rank": 6, "score": 22, "bonus": 6 },
+      { "sw": "SW-5312-8928-1893", "rank": 7, "score": 21, "bonus": 0 },
+      { "sw": "SW-4802-3318-5800", "rank": 8, "score": 20, "bonus": 0 },
+      { "sw": "SW-7268-6997-8474", "rank": 9, "score": 19, "bonus": 0 },
+      { "sw": "SW-4713-4160-4145", "rank": 10, "score": 11, "bonus": 1 },
+      { "sw": "SW-2262-4344-0245", "rank": 11, "score": 5, "bonus": 1 }
+    ]
+  },
+  {
+    "datetime": "2024-12-11 21:15",
+    "data": [
+      { "sw": "SW-5909-7062-9207", "rank": 1, "score": 36, "bonus": 4 },
+      { "sw": "SW-0097-5475-6413", "rank": 2, "score": 31, "bonus": 3 },
+      { "sw": "SW-4053-1694-2137", "rank": 3, "score": 27, "bonus": 2 },
+      { "sw": "SW-5785-5717-6873", "rank": 4, "score": 25, "bonus": 0 },
+      { "sw": "SW-4802-3318-5800", "rank": 5, "score": 19, "bonus": 0 },
+      { "sw": "SW-5312-8928-1893", "rank": 6, "score": 19, "bonus": 0 },
+      { "sw": "SW-7268-6997-8474", "rank": 7, "score": 16, "bonus": 6 },
+      { "sw": "SW-4713-4160-4145", "rank": 8, "score": 15, "bonus": 0 },
+      { "sw": "SW-2262-4344-0245", "rank": 9, "score": 4, "bonus": 0 }
+    ]
   }
 ]
